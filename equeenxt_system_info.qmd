@@ -5,6 +5,8 @@ author: "Equeen Thendersz"
 format:
   docx: default
 ---
+{python}
+
 import platform
 import psutil
 
