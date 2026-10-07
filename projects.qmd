@@ -1,0 +1,62 @@
+---
+title: "Projects"
+subtitle: "Selected academic and professional work"
+---
+
+## <i class="bi bi-graph-up-arrow"></i> Data-Driven Market Analytics
+*Boston University · Graduate Coursework*
+
+Built data preparation pipelines and applied **regression modeling, cluster
+analysis, and economic forecasting** to enterprise and real estate market
+case studies. Cleaned and transformed datasets, built models, and turned
+results into business recommendations.
+
+**Tools:** Python, Pandas, PySpark, R/RStudio, VS Code, GitHub
+
+---
+
+## <i class="bi bi-cloud-arrow-up"></i> Big Data & Cloud Analytics
+*Boston University AD688 · Fall 2026*
+
+Processed large datasets with **Apache Spark** on an **AWS EC2** cloud
+server, working with Spark ML pipelines, clustering, classification, and
+model evaluation. This portfolio site was built with Quarto and deployed
+through GitHub Pages as part of the course.
+
+**Tools:** PySpark, Spark ML, AWS EC2, Linux, Quarto, Git/GitHub
+
+---
+
+## <i class="bi bi-cpu"></i> Statistical Quality Control in Precision Manufacturing
+*SubCom · Newington, NH · 2025–2026*
+
+Applied **statistical quality control, process monitoring, and Lean
+methodologies** in the production of fiber Bragg gratings for subsea
+telecommunications cables. Operated writing rigs, precision lasers, and
+optical testing equipment while meeting throughput and quality targets
+under Lean Daily Management.
+
+**Skills:** SPC, control charts, Lean, quality assurance
+
+---
+
+## <i class="bi bi-buildings"></i> Preconstruction Façade Estimation
+*Open Avenues Foundation Build Fellowship · Jul–Aug 2026*
+
+Worked on a cross-functional team performing **blueprint analysis and
+digital quantity takeoffs** from construction drawings. Estimated
+material, labor, and equipment requirements and prepared cost estimation
+worksheets to support preconstruction planning.
+
+**Tools:** Bluebeam Revu, Excel · **Skills:** Cost estimation, quantity takeoff
+
+---
+
+## <i class="bi bi-diagram-3"></i> Access to Justice Program Planning
+*New Hampshire Judicial Branch · Summer 2023*
+
+Contributed to the ARPA-funded Access to Justice (A2J) project. Designed a
+**work breakdown structure** for a community navigator program and drafted
+a **Request for Proposal (RFP)** for vendor selection.
+
+**Skills:** Project planning, WBS, procurement

@@ -1,0 +1,48 @@
+---
+title: "Equeen Xaviera Thendersz"
+subtitle: "Supply Chain & Data Analytics | Logistics | Process Improvement"
+about:
+  template: trestles
+  image: images/headshot.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/equeenxt
+    - icon: envelope
+      text: Email
+      href: mailto:equeenxaviera@gmail.com
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/cv.pdf
+---
+
+I'm a supply chain professional completing a **Master of Science in Supply
+Chain Management (Data Analytics concentration) at Boston University**.
+My experience spans GMP logistics, precision manufacturing for subsea fiber
+optic systems, preconstruction cost estimation, and program operations. I
+combine that hands-on operational background with growing skills in data
+analytics and cloud computing.
+
+Currently, I'm a **Logistics Specialist at Lonza** in Portsmouth, NH,
+managing GMP logistics, inventory movements, and shipping with SAP,
+Syncade, and TrackWise.
+
+## What I Bring
+- **Excel (Advanced):** quantitative analysis, financial modeling, demand forecasting, capacity planning, and operational dashboards
+- **Lean & Quality:** Lean Six Sigma Green Belt, DMAIC, control charts, statistical process control
+- **Data Analytics (Growing):** Python, Pandas, PySpark, R/RStudio for data cleaning, regression, clustering, and time series forecasting
+- **Cloud & Tools:** AWS EC2, Git/GitHub, VS Code, Jupyter Notebooks, Quarto
+- **Operations Systems:** SAP, Salesforce, Oracle, Bluebeam Revu
+
+## Career Goals
+I'm pursuing roles in **supply chain analytics, logistics, and operations**
+where I can use data to improve processes, forecast demand, and support
+better business decisions.
+
+## Education
+**Boston University**, MS in Supply Chain Management (Data Analytics Concentration), *Expected Winter 2026*
+
+**University of New Hampshire**, BA in Political Science & International Affairs
+
+## Languages
+English (Native) · Bahasa Indonesia (Fluent)

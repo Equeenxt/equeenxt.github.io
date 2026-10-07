@@ -1,0 +1,31 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Summary
+Supply chain and operations professional with experience in GMP logistics,
+precision manufacturing, cost estimation, and program coordination, backed
+by graduate training in supply chain management and data analytics. Lean
+Six Sigma Green Belt with advanced Excel skills and growing proficiency in
+Python, PySpark, and R.
+
+[<i class="bi bi-download"></i> Download my CV (PDF)](files/cv.pdf){.btn .btn-primary download="Equeen_Thendersz_CV.pdf"}
+
+## Experience Highlights
+- **Lonza**, Logistics Specialist *(2026–Present)*
+- **Open Avenues Foundation**, Build Fellow, Façade Estimation *(2026)*
+- **SubCom**, Tradesperson Class 1, Filters Department *(2025–2026)*
+- **JVS Boston**, Community Partnership Specialist *(2023–2025)*
+- **NH Judicial Branch**, Administrative Office of the Courts Intern *(2023)*
+
+## Skills
+**Advanced:** Excel (forecasting, financial modeling, capacity planning) · Lean Six Sigma / DMAIC
+
+**Proficient:** SAP · Salesforce · Oracle · Bluebeam Revu · Git/GitHub · VS Code · Microsoft Office
+
+**Developing:** Python · Pandas · PySpark · R/RStudio · AWS EC2 · Jupyter
+
+## Certifications
+Lean Six Sigma Green Belt
+
+<iframe src="files/cv.pdf" width="100%" height="800px" style="border:1px solid #ddd; border-radius:8px;"></iframe>

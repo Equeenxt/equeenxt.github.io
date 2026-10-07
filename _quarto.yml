@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - projects.qmd
+    - cv.qmd
+    - contact.qmd
+
+website:
+  title: "Equeen Thendersz"
+  navbar:
+    left:
+      - text: About You
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/equeenxt
+      - icon: envelope
+        href: mailto:equeenxaviera@gmail.com
+  page-footer:
+    center: "© 2026 Equeen Thendersz"
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    include-in-header:
+      text: |
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Lato:wght@400;700&display=swap" rel="stylesheet">

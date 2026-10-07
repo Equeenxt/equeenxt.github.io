@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always happy to connect about data roles, projects, and collaborations.\n\nEmail: equeenxt@bu.edu\nGitHub: github.com/equeenxt"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Boston University · Graduate Coursework\nBuilt data preparation pipelines and applied regression modeling, cluster analysis, and economic forecasting to enterprise and real estate market case studies. Cleaned and transformed datasets, built models, and turned results into business recommendations.\nTools: Python, Pandas, PySpark, R/RStudio, VS Code, GitHub"
+  },
+  {
+    "objectID": "projects.html#data-driven-market-analytics",
+    "href": "projects.html#data-driven-market-analytics",
+    "title": "Projects",
+    "section": "",
+    "text": "Boston University · Graduate Coursework\nBuilt data preparation pipelines and applied regression modeling, cluster analysis, and economic forecasting to enterprise and real estate market case studies. Cleaned and transformed datasets, built models, and turned results into business recommendations.\nTools: Python, Pandas, PySpark, R/RStudio, VS Code, GitHub"
+  },
+  {
+    "objectID": "projects.html#big-data-cloud-analytics",
+    "href": "projects.html#big-data-cloud-analytics",
+    "title": "Projects",
+    "section": " Big Data & Cloud Analytics",
+    "text": "Big Data & Cloud Analytics\nBoston University AD688 · Fall 2026\nProcessed large datasets with Apache Spark on an AWS EC2 cloud server, working with Spark ML pipelines, clustering, classification, and model evaluation. This portfolio site was built with Quarto and deployed through GitHub Pages as part of the course.\nTools: PySpark, Spark ML, AWS EC2, Linux, Quarto, Git/GitHub"
+  },
+  {
+    "objectID": "projects.html#statistical-quality-control-in-precision-manufacturing",
+    "href": "projects.html#statistical-quality-control-in-precision-manufacturing",
+    "title": "Projects",
+    "section": " Statistical Quality Control in Precision Manufacturing",
+    "text": "Statistical Quality Control in Precision Manufacturing\nSubCom · Newington, NH · 2025–2026\nApplied statistical quality control, process monitoring, and Lean methodologies in the production of fiber Bragg gratings for subsea telecommunications cables. Operated writing rigs, precision lasers, and optical testing equipment while meeting throughput and quality targets under Lean Daily Management.\nSkills: SPC, control charts, Lean, quality assurance"
+  },
+  {
+    "objectID": "projects.html#preconstruction-façade-estimation",
+    "href": "projects.html#preconstruction-façade-estimation",
+    "title": "Projects",
+    "section": " Preconstruction Façade Estimation",
+    "text": "Preconstruction Façade Estimation\nOpen Avenues Foundation Build Fellowship · Jul–Aug 2026\nWorked on a cross-functional team performing blueprint analysis and digital quantity takeoffs from construction drawings. Estimated material, labor, and equipment requirements and prepared cost estimation worksheets to support preconstruction planning.\nTools: Bluebeam Revu, Excel · Skills: Cost estimation, quantity takeoff"
+  },
+  {
+    "objectID": "projects.html#access-to-justice-program-planning",
+    "href": "projects.html#access-to-justice-program-planning",
+    "title": "Projects",
+    "section": " Access to Justice Program Planning",
+    "text": "Access to Justice Program Planning\nNew Hampshire Judicial Branch · Summer 2023\nContributed to the ARPA-funded Access to Justice (A2J) project. Designed a work breakdown structure for a community navigator program and drafted a Request for Proposal (RFP) for vendor selection.\nSkills: Project planning, WBS, procurement"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Equeen Xaviera Thendersz",
+    "section": "",
+    "text": "I’m a supply chain professional completing a Master of Science in Supply Chain Management (Data Analytics concentration) at Boston University. My experience spans GMP logistics, precision manufacturing for subsea fiber optic systems, preconstruction cost estimation, and program operations. I combine that hands-on operational background with growing skills in data analytics and cloud computing.\nCurrently, I’m a Logistics Specialist at Lonza in Portsmouth, NH, managing GMP logistics, inventory movements, and shipping with SAP, Syncade, and TrackWise."
+  },
+  {
+    "objectID": "index.html#what-i-bring",
+    "href": "index.html#what-i-bring",
+    "title": "Equeen Xaviera Thendersz",
+    "section": "What I Bring",
+    "text": "What I Bring\n\nExcel (Advanced): quantitative analysis, financial modeling, demand forecasting, capacity planning, and operational dashboards\nLean & Quality: Lean Six Sigma Green Belt, DMAIC, control charts, statistical process control\nData Analytics (Growing): Python, Pandas, PySpark, R/RStudio for data cleaning, regression, clustering, and time series forecasting\nCloud & Tools: AWS EC2, Git/GitHub, VS Code, Jupyter Notebooks, Quarto\nOperations Systems: SAP, Salesforce, Oracle, Bluebeam Revu"
+  },
+  {
+    "objectID": "index.html#career-goals",
+    "href": "index.html#career-goals",
+    "title": "Equeen Xaviera Thendersz",
+    "section": "Career Goals",
+    "text": "Career Goals\nI’m pursuing roles in supply chain analytics, logistics, and operations where I can use data to improve processes, forecast demand, and support better business decisions."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Equeen Xaviera Thendersz",
+    "section": "Education",
+    "text": "Education\nBoston University, MS in Supply Chain Management (Data Analytics Concentration), Expected Winter 2026\nUniversity of New Hampshire, BA in Political Science & International Affairs"
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "Equeen Xaviera Thendersz",
+    "section": "Languages",
+    "text": "Languages\nEnglish (Native) · Bahasa Indonesia (Fluent)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Supply chain and operations professional with experience in GMP logistics, precision manufacturing, cost estimation, and program coordination, backed by graduate training in supply chain management and data analytics. Lean Six Sigma Green Belt with advanced Excel skills and growing proficiency in Python, PySpark, and R.\n Download my CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Supply chain and operations professional with experience in GMP logistics, precision manufacturing, cost estimation, and program coordination, backed by graduate training in supply chain management and data analytics. Lean Six Sigma Green Belt with advanced Excel skills and growing proficiency in Python, PySpark, and R.\n Download my CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#experience-highlights",
+    "href": "cv.html#experience-highlights",
+    "title": "Curriculum Vitae",
+    "section": "Experience Highlights",
+    "text": "Experience Highlights\n\nLonza, Logistics Specialist (2026–Present)\nOpen Avenues Foundation, Build Fellow, Façade Estimation (2026)\nSubCom, Tradesperson Class 1, Filters Department (2025–2026)\nJVS Boston, Community Partnership Specialist (2023–2025)\nNH Judicial Branch, Administrative Office of the Courts Intern (2023)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nAdvanced: Excel (forecasting, financial modeling, capacity planning) · Lean Six Sigma / DMAIC\nProficient: SAP · Salesforce · Oracle · Bluebeam Revu · Git/GitHub · VS Code · Microsoft Office\nDeveloping: Python · Pandas · PySpark · R/RStudio · AWS EC2 · Jupyter"
+  },
+  {
+    "objectID": "cv.html#certifications",
+    "href": "cv.html#certifications",
+    "title": "Curriculum Vitae",
+    "section": "Certifications",
+    "text": "Certifications\nLean Six Sigma Green Belt"
+  }
+]
